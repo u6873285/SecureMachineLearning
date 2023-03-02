@@ -4,6 +4,8 @@
 
 ## Client/Client Motivation/Background
 
+## Team Members
+
 ## Link to Miro
 
 ## Links to Resources
