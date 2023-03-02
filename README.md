@@ -4,6 +4,8 @@
 
 ## Client/Client Motivation/Background
 
+## Link to Miro
+
 ## Links to Resources
 
 ## Links to Meeting Notes
